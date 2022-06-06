@@ -1,0 +1,6 @@
+Part3:
+curl -X POST  -H "Content-Type: application/json" - @/Users/achyutpaudel/Desktop/CSProjects/Hatchways/newData.json "localhost:5000/recipes"
+
+
+Part4:
+curl -X PUT  -H "Content-Type: application/json" -d @/Users/achyutpaudel/Desktop/CSProjects/Hatchways/updateData.json "localhost:5000/recipes"

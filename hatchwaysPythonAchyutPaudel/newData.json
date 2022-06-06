@@ -1,0 +1,11 @@
+	{
+		"name": "butteredBagel", 
+			"ingredients": [
+				"1 bagel", 
+				"butter"
+			], 
+		"instructions": [
+			"cut the bagel", 
+			"spread butter on bagel"
+		] 
+	}
